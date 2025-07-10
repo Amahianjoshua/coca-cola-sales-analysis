@@ -2,9 +2,10 @@
   <img src="images/coca.png" width="300">
 </div>
 
-# 🥤 Coca-Cola Sales & Operating Profit Analysis (Python Edition)
+# 🥤 Coca-Cola Sales & Profit Analysis – 🐍 Python + 📊 Power BI
 
-This project presents an **exploratory data analysis (EDA)** of Coca-Cola’s beverage sales and operating profit across various U.S. retailers, states, and time periods using Python. The analysis aims to extract actionable business insights using widely adopted Python data libraries.
+This project presents an end-to-end analysis of Coca-Cola’s beverage sales and operating profit across various U.S. retailers, states, and time periods using 🐍 **Python** for exploratory data analysis (EDA) and 📊 **Power BI** for interactive visualization. The goal is to extract actionable business insights by combining the analytical power of Python with the storytelling capabilities of Power BI.
+
 
 ---
 
@@ -30,7 +31,7 @@ The dataset contains real-world performance metrics across:
 
 ## 🎯 Project Objective
 
-To evaluate Coca-Cola’s product sales and profit performance in the U.S. using Python-based EDA techniques, and to deliver business-focused insights that inform decision-making.
+The goal is to extract actionable business insights by combining the analytical power of Python with the storytelling capabilities of Power BI.
 
 ---
 
@@ -83,3 +84,16 @@ This dataset was particularly meaningful because my mum runs a wholesale busines
 - [`NumPy`](w) – Numerical operations  
 - [`Matplotlib`](w) & [`Seaborn`](w) – Data visualization  
 - **Jupyter Notebook** – Notebook environment for analysis and storytelling
+
+
+## 📊 Power BI Dashboard
+
+To complement the Python-based EDA, I created an interactive **Power BI dashboard** to visualize Coca-Cola’s sales and profit performance more dynamically.
+
+This dashboard serves as the **visual storytelling layer**, highlighting trends, comparisons, and performance metrics across brands, retailers, time periods, and regions.
+
+### 🔍 Dashboard Insights:
+- **Walmart** generated over **$4.4M** more in sales than other retailers.
+- **December** recorded the **highest sales volume**, exceeding **$984K**.
+- The **West Coast** led in operating profit, generating **$2.37M**.
+- **Coca-Cola (Coke)** stood out with **$4.0M** in sales, showing strong consumer loyalty.
